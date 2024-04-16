@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Noise_Gate_PCB.TXT]
+   Generated File[Noise_Gate_PCB.LDP]
+   Generated File[Noise_Gate_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:38:19 PM On 4/16/2024
