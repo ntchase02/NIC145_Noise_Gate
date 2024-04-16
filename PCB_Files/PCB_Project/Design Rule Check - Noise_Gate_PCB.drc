@@ -1,0 +1,303 @@
+Protel Design System Design Rule Check
+PCB File : C:\NIC145_Noise_Gate\PCB_Files\PCB_Project\Noise_Gate_PCB.PcbDoc
+Date     : 4/16/2024
+Time     : 3:26:11 PM
+
+Processing Rule : Clearance Constraint (Gap=20mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=30mil) (Max=10000mil) (Preferred=50mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=17mil) (All)
+   Violation between Minimum Annular Ring: (10.038mil < 17mil) Pad Battery-1(200mil,835mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.039mil < 17mil) Pad Battery-2(200mil,935mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C1-.2nF-1(3136.692mil,2407.992mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C1-.2nF-2(3223.308mil,2782.008mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C10-.2nF-1(3616.692mil,2407.992mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C10-.2nF-2(3703.308mil,2782.008mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C11-1uF-1(5580.788mil,3220mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C11-1uF-2(5679.212mil,3220mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C2-.2nF-1(1681.692mil,2407.992mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C2-.2nF-2(1768.308mil,2782.008mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C3-.2nF-1(3563.386mil,595.984mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C3-.2nF-2(3650mil,970mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.826mil < 17mil) Pad C4-1mF-1(805mil,1555mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.827mil < 17mil) Pad C4-1mF-2(509.724mil,1555mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.826mil < 17mil) Pad C5-10nF-1(2170mil,1000.512mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.827mil < 17mil) Pad C5-10nF-2(2170mil,1689.488mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (12.794mil < 17mil) Pad C6-1uF-1(535mil,2211.812mil) on Multi-Layer (Annular Ring=12.795mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (12.795mil < 17mil) Pad C6-1uF-2(535mil,3688.19mil) on Multi-Layer (Annular Ring=12.795mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C7-1uF-1(4741.574mil,2875mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C7-1uF-2(4840mil,2875mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C8-.2nF-1(2146.692mil,2402.992mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C8-.2nF-2(2233.308mil,2777.008mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C9-.2nF-1(2641.692mil,2402.992mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C9-.2nF-2(2728.308mil,2777.008mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad C9-1uF-1(4755mil,2340mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad C9-1uF-2(4853.426mil,2340mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad D1-zener-1(1625mil,1609.764mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad D1-zener-2(1625mil,1910mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.826mil < 17mil) Pad D2-1N007-1(5065mil,1135.196mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.827mil < 17mil) Pad D2-1N007-2(5065mil,1484.804mil) on Multi-Layer (Annular Ring=10.827mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.038mil < 17mil) Pad input-1(5790mil,415mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.039mil < 17mil) Pad input-2(5790mil,515mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.038mil < 17mil) Pad output-1(5790mil,2610mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.039mil < 17mil) Pad output-2(5790mil,2710mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.038mil < 17mil) Pad Plug-1(190mil,365mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (10.039mil < 17mil) Pad Plug-2(190mil,465mil) on Multi-Layer (Annular Ring=10.039mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R10-10k-1(1180mil,2413.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R10-10k-2(1180mil,2806.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R11-6.8k-1(5825mil,1521.3mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R11-6.8k-2(5825mil,1915mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R1-1k-1(3881.85mil,3300mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R1-1k-2(3488.15mil,3300mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R12-2.2k-1(5330mil,1708.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R12-2.2k-2(5330mil,2101.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R13-10M-1(5046.85mil,2035mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R13-10M-2(4653.15mil,2035mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R14-1k-1(3876.85mil,3615mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R14-1k-2(3483.15mil,3615mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R15-1k-1(2750mil,3283.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R15-1k-2(2750mil,3676.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R16-1k-1(1185mil,2121.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R16-1k-2(1185mil,1728.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R17-1k-1(1185mil,1068.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R17-1k-2(1185mil,1461.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R18-1k-1(2038.15mil,3300mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R18-1k-2(2431.85mil,3300mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R19-1.5k-1(2486.85mil,1985mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R19-1.5k-2(2093.15mil,1985mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R20-100k-1(4113.15mil,2875mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R20-100k-2(4506.85mil,2875mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R2-1k-1(3170mil,3288.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R2-1k-2(3170mil,3681.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R3-470-1(3510mil,1488.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R3-470-2(3510mil,1881.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R4-1M-1(3970mil,363.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R4-1M-2(3970mil,756.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R5-10k-1(1195mil,3113.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R5-10k-2(1195mil,3506.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R6-22k-1(5325mil,2746.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R6-22k-2(5325mil,2353.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R7-1k-1(5340mil,1088.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R7-1k-2(5340mil,1481.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R8-1k-1(4690mil,1103.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R8-1k-2(4690mil,1496.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.841mil < 17mil) Pad R9-1k-1(5795mil,853.15mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (9.842mil < 17mil) Pad R9-1k-2(5795mil,1246.85mil) on Multi-Layer (Annular Ring=9.842mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.873mil < 17mil) Pad U-1(3988.7mil,1685mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-10(4301.3mil,1285mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-11(4301.3mil,1385mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-12(4301.3mil,1485mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-13(4301.3mil,1585mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-14(4301.3mil,1685mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.81mil < 17mil) Pad U1-LM741-1(5025mil,720mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-2(5025mil,620mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-3(5025mil,520mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-4(5025mil,420mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-5(5325mil,420mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-6(5325mil,520mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-7(5325mil,620mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U1-LM741-8(5325mil,720mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-2(3988.7mil,1585mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.81mil < 17mil) Pad U2-LM741-1(4340mil,705mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-2(4340mil,605mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-3(4340mil,505mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-4(4340mil,405mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-5(4640mil,405mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-6(4640mil,505mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-7(4640mil,605mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U2-LM741-8(4640mil,705mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-3(3988.7mil,1485mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.81mil < 17mil) Pad U3-LM741-1(2655mil,1305mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-2(2655mil,1205mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-3(2655mil,1105mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-4(2655mil,1005mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-5(2955mil,1005mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-6(2955mil,1105mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-7(2955mil,1205mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U3-LM741-8(2955mil,1305mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-4(3988.7mil,1385mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.81mil < 17mil) Pad U4-LM741-1(2665mil,1935mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-2(2665mil,1835mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-3(2665mil,1735mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-4(2665mil,1635mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-5(2965mil,1635mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-6(2965mil,1735mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-7(2965mil,1835mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U4-LM741-8(2965mil,1935mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-5(3988.7mil,1285mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.81mil < 17mil) Pad U5-LM741-1(4120mil,2470mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-2(4120mil,2370mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-3(4120mil,2270mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-4(4120mil,2170mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-5(4420mil,2170mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-6(4420mil,2270mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-7(4420mil,2370mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (11.811mil < 17mil) Pad U5-LM741-8(4420mil,2470mil) on Multi-Layer (Annular Ring=11.811mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-6(3988.7mil,1185mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-7(3988.7mil,1085mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-8(4301.3mil,1085mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (7.874mil < 17mil) Pad U-9(4301.3mil,1185mil) on Multi-Layer (Annular Ring=7.874mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (2.5mil < 17mil) Via (2871mil,2508mil) from Top Layer to Bottom Layer (Annular Ring=2.5mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (2.5mil < 17mil) Via (4669mil,1418mil) from Top Layer to Bottom Layer (Annular Ring=2.5mil) On (Top Layer)
+Rule Violations :132
+
+Processing Rule : Hole Size Constraint (Min=39.37mil) (Max=1000mil) (All)
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C1-.2nF-1(3136.692mil,2407.992mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C1-.2nF-2(3223.308mil,2782.008mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C10-.2nF-1(3616.692mil,2407.992mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C10-.2nF-2(3703.308mil,2782.008mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C11-1uF-1(5580.788mil,3220mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C11-1uF-2(5679.212mil,3220mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C2-.2nF-1(1681.692mil,2407.992mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C2-.2nF-2(1768.308mil,2782.008mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C3-.2nF-1(3563.386mil,595.984mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C3-.2nF-2(3650mil,970mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C7-1uF-1(4741.574mil,2875mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C7-1uF-2(4840mil,2875mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C8-.2nF-1(2146.692mil,2402.992mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C8-.2nF-2(2233.308mil,2777.008mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C9-.2nF-1(2641.692mil,2402.992mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (31.496mil < 39.37mil) Pad C9-.2nF-2(2728.308mil,2777.008mil) on Multi-Layer Actual Hole Size = 31.496mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C9-1uF-1(4755mil,2340mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad C9-1uF-2(4853.426mil,2340mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad D1-zener-1(1625mil,1609.764mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (27.559mil < 39.37mil) Pad D1-zener-2(1625mil,1910mil) on Multi-Layer Actual Hole Size = 27.559mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R10-10k-1(1180mil,2413.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R10-10k-2(1180mil,2806.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R11-6.8k-1(5825mil,1521.3mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R11-6.8k-2(5825mil,1915mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R1-1k-1(3881.85mil,3300mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R1-1k-2(3488.15mil,3300mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R12-2.2k-1(5330mil,1708.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R12-2.2k-2(5330mil,2101.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R13-10M-1(5046.85mil,2035mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R13-10M-2(4653.15mil,2035mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R14-1k-1(3876.85mil,3615mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R14-1k-2(3483.15mil,3615mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R15-1k-1(2750mil,3283.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R15-1k-2(2750mil,3676.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R16-1k-1(1185mil,2121.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R16-1k-2(1185mil,1728.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R17-1k-1(1185mil,1068.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R17-1k-2(1185mil,1461.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R18-1k-1(2038.15mil,3300mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R18-1k-2(2431.85mil,3300mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R19-1.5k-1(2486.85mil,1985mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R19-1.5k-2(2093.15mil,1985mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R20-100k-1(4113.15mil,2875mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R20-100k-2(4506.85mil,2875mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R2-1k-1(3170mil,3288.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R2-1k-2(3170mil,3681.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R3-470-1(3510mil,1488.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R3-470-2(3510mil,1881.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R4-1M-1(3970mil,363.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R4-1M-2(3970mil,756.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R5-10k-1(1195mil,3113.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R5-10k-2(1195mil,3506.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R6-22k-1(5325mil,2746.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R6-22k-2(5325mil,2353.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R7-1k-1(5340mil,1088.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R7-1k-2(5340mil,1481.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R8-1k-1(4690mil,1103.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R8-1k-2(4690mil,1496.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R9-1k-1(5795mil,853.15mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (29.528mil < 39.37mil) Pad R9-1k-2(5795mil,1246.85mil) on Multi-Layer Actual Hole Size = 29.528mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-1(3988.7mil,1685mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-10(4301.3mil,1285mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-11(4301.3mil,1385mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-12(4301.3mil,1485mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-13(4301.3mil,1585mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-14(4301.3mil,1685mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-1(5025mil,720mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-2(5025mil,620mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-3(5025mil,520mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-4(5025mil,420mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-5(5325mil,420mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-6(5325mil,520mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-7(5325mil,620mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U1-LM741-8(5325mil,720mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-2(3988.7mil,1585mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-1(4340mil,705mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-2(4340mil,605mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-3(4340mil,505mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-4(4340mil,405mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-5(4640mil,405mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-6(4640mil,505mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-7(4640mil,605mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U2-LM741-8(4640mil,705mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-3(3988.7mil,1485mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-1(2655mil,1305mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-2(2655mil,1205mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-3(2655mil,1105mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-4(2655mil,1005mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-5(2955mil,1005mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-6(2955mil,1105mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-7(2955mil,1205mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U3-LM741-8(2955mil,1305mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-4(3988.7mil,1385mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-1(2665mil,1935mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-2(2665mil,1835mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-3(2665mil,1735mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-4(2665mil,1635mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-5(2965mil,1635mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-6(2965mil,1735mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-7(2965mil,1835mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U4-LM741-8(2965mil,1935mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-5(3988.7mil,1285mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-1(4120mil,2470mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-2(4120mil,2370mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-3(4120mil,2270mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-4(4120mil,2170mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-5(4420mil,2170mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-6(4420mil,2270mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-7(4420mil,2370mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (35.433mil < 39.37mil) Pad U5-LM741-8(4420mil,2470mil) on Multi-Layer Actual Hole Size = 35.433mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-6(3988.7mil,1185mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-7(3988.7mil,1085mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-8(4301.3mil,1085mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30.315mil < 39.37mil) Pad U-9(4301.3mil,1185mil) on Multi-Layer Actual Hole Size = 30.315mil
+   Violation between Hole Size Constraint: (30mil < 39.37mil) Via (2871mil,2508mil) from Top Layer to Bottom Layer Actual Hole Size = 30mil
+   Violation between Hole Size Constraint: (30mil < 39.37mil) Via (4669mil,1418mil) from Top Layer to Bottom Layer Actual Hole Size = 30mil
+Rule Violations :116
+
+Processing Rule : Hole To Hole Clearance (Gap=17mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 12mil) Between Board Edge And Text "input" (5742.5mil,634.5mil) on Top Overlay 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 249
+Waived Violations : 0
+Time Elapsed        : 00:00:02
