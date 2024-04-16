@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=D1-zener Old Footprint=FP-017AG-MFG New Footprint=FP-017AG-MFG
+Change Component Footprint: Designator=C1-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Change Component Footprint: Designator=C2-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Change Component Footprint: Designator=C3-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Change Component Footprint: Designator=C8-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Change Component Footprint: Designator=C9-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Change Component Footprint: Designator=C10-.2nF Old Footprint=FP-565R30GASS33-MFG New Footprint=FP-565R30GASS33-MFG
+Added Component: Designator=U(DIP794W45P254L1969H508Q14)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4007UBE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD4007UBE/Texas%20Instruments/view-part/2816072/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=2816072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CompOut Pin=U-6
+Added Pin To Net: NetName=NetR14-1k_2 Pin=U-7
+Added Pin To Net: NetName=LEDOUT Pin=U-8
+Added Pin To Net: NetName=Buff1Out Pin=U-9
+Added Pin To Net: NetName=CompOut Pin=U-10
+Added Pin To Net: NetName=SigOut Pin=U-12
+Added Pin To Net: NetName=LEDOUT Pin=U-13
+Added Pin To Net: NetName=9V Pin=U-14
+Added Member To Class: ClassName=NIC145_Noise_Gate_Schematic Member=Component U CD4007UBE
